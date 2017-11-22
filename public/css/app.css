@@ -2,7 +2,9 @@ body {
   font-size: 18px;
   color: purple;
 }
-
+a.list-group-item{
+  color: purple;
+}
 
 .subjects {
   width: 300px;
