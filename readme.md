@@ -1,0 +1,1 @@
+### Welcome Everyone! My Name is Josh Prpich an English Teacher and passionate developer located in the beautiful city of Bogotá Colombia.
