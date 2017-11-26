@@ -18,3 +18,13 @@ body {
         width: 200px;
     }
 }
+
+
+@media only screen and (min-width: 501px) {
+    img.subjects {
+      height: 211px;
+    }
+}
+
+
+
